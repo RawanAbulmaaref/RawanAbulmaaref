@@ -5,11 +5,18 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RawanAbulmaaref&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="https://github.com/RawanAbulmaaref">
     <img src="https://img.shields.io/badge/GitHub-RawanAbulmaaref-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rawan-abulmaaref-6296a9345/">
     <img src="https://img.shields.io/badge/LinkedIn-Rawan%20Abulmaaref-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rabulmaaref@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -17,17 +24,13 @@
 
 ## 👩‍💻 About Me
 
-🎓 **Computer Science Student** at **Luxor University**
-
-💻 **Junior Full Stack .NET Developer** passionate about building modern, responsive, and user-friendly web applications.
-
-🚀 I enjoy working on both **Front-End and Back-End development**, turning ideas into functional web experiences.
-
-🌱 Currently developing my skills in **ASP.NET Core, C#, SQL, React, and modern web technologies**.
-
-🧠 Interested in **Problem Solving, Software Development, Databases, and Web Technologies**.
-
-✨ Always learning, building, and improving.
+* 🎓 **Computer Science Student** at **Luxor University**
+* 💻 **Junior Full Stack .NET Developer** passionate about building modern, responsive, and user-friendly web applications.
+* 🎨 Interested in creating clean and attractive **Front-End interfaces**.
+* ⚙️ Building my skills in **C#, .NET, ASP.NET Core, and SQL**.
+* ⚛️ Experienced with **HTML, CSS, JavaScript, Bootstrap, and React**.
+* 🧠 Interested in **Problem Solving, Software Development, Databases, and Web Technologies**.
+* 🚀 Always learning, building, and improving.
 
 ---
 
@@ -62,28 +65,28 @@
 ## 💻 What I Work With
 
 ```text
-Front-End
+🎨 Front-End
 ├── HTML5
 ├── CSS3
 ├── JavaScript
 ├── Bootstrap
 └── React
 
-Back-End
+⚙️ Back-End
 ├── C#
 ├── .NET
 ├── ASP.NET Core
 ├── ASP.NET Core MVC
 └── Web APIs
 
-Database
+🗄️ Database
 ├── SQL
 ├── Database Design
 ├── ERD / EER
 └── SQL Queries
 
-Development
-├── OOP
+🔧 Development
+├── Object-Oriented Programming
 ├── Git & GitHub
 ├── Problem Solving
 └── Responsive Web Design
@@ -103,7 +106,7 @@ A web-based clinic system designed to manage patients, doctors, appointments, an
 
 **Front-End • .NET • Database**
 
-A responsive web application focused on pet care services and user-friendly interaction.
+A responsive web application focused on pet care services with a clean and user-friendly interface.
 
 ### 💼 Job Portal
 
@@ -138,8 +141,8 @@ A responsive e-commerce interface designed with a clean and user-friendly shoppi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RawanAbulmaaref&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RawanAbulmaaref&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RawanAbulmaaref&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RawanAbulmaaref&layout=compact&theme=radical&hide_border=true" height="180" />
 </p>
 
 ---
